@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yishnu96/Habit-Tracker.git"
+    "url": "https://github.com/Simin0406/Habit-Tracker"
   },
   "keywords": [
     "Habit-Tracker",
@@ -17,12 +17,12 @@
     "Nodejs",
     "MongoDB"
   ],
-  "author": "Yishnu Pramanik",
+  "author": "Coding Ninjas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yishnu96/Habit-Tracker/issues"
+    "url": "https://github.com/Simin0406/Habit-Tracker/issues"
   },
-  "homepage": "https://github.com/yishnu96/Habit-Tracker#readme",
+  "homepage": "https://github.com/Simin0406/Habit-Tracker#readme",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
